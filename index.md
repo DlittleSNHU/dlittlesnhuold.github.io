@@ -1,5 +1,5 @@
 <center>
-  <img src="pfpdaniel.jpg" height=200 width=200>
+  <img src="pfpdaniel.png" height=200 width=200>
 </center>
 
 # <center>CS499 - Computer Science Capstone</center>
